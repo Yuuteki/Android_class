@@ -1,0 +1,33 @@
+# macOS / editors
+.DS_Store
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Android / Gradle generated files
+**/.gradle/
+**/build/
+**/.cxx/
+**/captures/
+**/local.properties
+**/*.apk
+**/outputs/
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# Course materials and packaged submissions
+*.pdf
+*.zip
+
+# Reference projects kept locally but not intended for this repo
+/07_UIFragments/
+/09_RecyclerView/
+/CameraIntent/
+/GeoQuiz/
+/SimpleInflexibleFragmentTest/
+/TMNT/
+/test01/
+/上机1/

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TMNTFragmentApp</string>
+    <string name="screen_title">Teenage Mutant Ninja Turtles</string>
+    <string name="choose_turtle">选择一只忍者神龟</string>
+    <string name="tap_hint">点击图片显示全名</string>
+    <string name="image_desc">忍者神龟图片</string>
+    <string name="leo_label">Leo</string>
+    <string name="don_label">Don</string>
+    <string name="raph_label">Raph</string>
+    <string name="mike_label">Mike</string>
+    <string name="leo_full">Leonardo</string>
+    <string name="don_full">Donatello</string>
+    <string name="raph_full">Raphael</string>
+    <string name="mike_full">Michelangelo</string>
+</resources>
