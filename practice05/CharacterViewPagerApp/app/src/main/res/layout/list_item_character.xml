@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/list_item_program_image"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:contentDescription="@string/program_image_desc"
+        android:scaleType="fitCenter"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/list_item_character_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            tools:text="Leonardo" />
+
+        <TextView
+            android:id="@+id/list_item_program_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Teenage Mutant Ninja Turtles" />
+    </LinearLayout>
+</LinearLayout>
