@@ -31,7 +31,7 @@ public class CharacterLab {
                 characterPicId,
                 name,
                 nickName,
-                R.mipmap.ic_launcher,
+                R.drawable.tmnt_program,
                 "Teenage Mutant Ninja Turtles"));
     }
 
