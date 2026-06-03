@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/beat_box_primary</item>
+        <item name="colorPrimaryDark">@color/beat_box_dark</item>
+        <item name="colorAccent">@color/beat_box_accent</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="BeatBoxButton">
+        <item name="android:backgroundTint">@color/beat_box_button</item>
+        <item name="android:textColor">@color/beat_box_button_text</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:minHeight">96dp</item>
+    </style>
+
+</resources>

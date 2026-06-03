@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beat_box_dark">#102A2D</color>
+    <color name="beat_box_primary">#19535F</color>
+    <color name="beat_box_accent">#F6AE2D</color>
+    <color name="beat_box_background">#F5EFE6</color>
+    <color name="beat_box_button">#2F4858</color>
+    <color name="beat_box_button_pressed">#F26419</color>
+    <color name="beat_box_button_text">#FFFFFF</color>
+</resources>
